@@ -6,6 +6,7 @@
 
 body {
   font-size: 14px;
+  display: flex;
 }
 
 div {
@@ -36,4 +37,8 @@ button {
 div li button {
   margin: 0 15px;
   background: #ca4949;
+}
+
+h1{
+  margin-bottom: 20px;
 }
